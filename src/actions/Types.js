@@ -1,0 +1,1 @@
+export const type_product_add = "type_product_add"
